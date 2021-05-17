@@ -1,0 +1,22 @@
+.titulos{
+   
+    background-color: #F84E4E;
+}
+.elec{
+    text-align: center;
+    margin-top: 10px;
+    background-color: #8A8685;
+}
+
+.elec-img{
+    border-radius: 5px;
+}
+
+.boton1{
+    background-color: rgb(44, 60, 78);
+}
+
+.boton2{
+    background-color:rgb(44, 60, 78) ;
+    
+}

@@ -1,0 +1,127 @@
+.logo{
+    width: 100px;
+    position: absolute;
+}
+  .search{
+    border: none;
+    outline: none;
+    background: #F84E4E;
+    color: white;
+    font-size: 18px;
+    width: 300px;
+    float: left;
+    margin: 0 10px;
+    position: absolute;
+    margin-left: 130px;
+    margin-top: 25px;
+    border-radius: 5px;
+    height: 40px;
+  }
+
+  .buscar{
+      width: 30px;
+      margin-left: 450px;
+      margin-top: 40px;
+  }
+
+  .región{
+      width: 50px;
+      margin-left: 220px;
+      position: absolute;
+      margin-top: 30px;
+  }
+
+  .gt{
+      margin-left: 650px;
+      width: 110px;
+      height: 50px;
+      font-size: 23px;
+      margin-top: -40px;
+      background-color: #C3C4C6;
+      border-radius: 5px;
+  }
+
+  .btn-warning{
+      position: absolute;
+      margin-left: 1200px;
+      margin-top: -60px;
+  }
+  
+  .container{
+      background-color: #8A8685;
+      width: 100%;
+      height: 100%;
+  }
+
+  .inicio{
+      background-color: #8A8685;
+      height: 120px;
+  }
+
+  .menú{
+      background-color: #F84E4E;
+      height: 70px;
+      text-align: center;
+  }
+nav a {
+	color: black;
+	text-decoration: none;
+	margin-right: 20px;
+font-size: 20px;
+margin-top: 80px;
+}
+.carrito{
+    width: 40px;
+}
+.info{
+    margin-top: 80px;
+    background-color: #C4C4C4;
+    text-align: center;
+    height: 150px;
+}
+
+.mision{
+    margin-top: 100px;
+    width: 600px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+    position: absolute;
+    margin-bottom: 80px;
+}
+
+.vision{
+    margin-top: 100px;
+    width: 600px;
+    margin-bottom: 80px;
+    margin-left: 830px;
+    position: absolute;
+}
+
+.visoninfo{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.V1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+.misoninfo{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 900px;
+    color: black;
+    font-weight: bold;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.M1{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 900px;
+}

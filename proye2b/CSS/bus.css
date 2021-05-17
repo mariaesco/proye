@@ -1,0 +1,13 @@
+body{
+
+  Background-image: url(../IMG/fon.jpg);
+    align-items: center;
+    Display:flex;
+    Justify-content:center;
+}
+.cuadro_busqueda{
+  margin-top: 80px;
+  background-color: #C4C4C4;
+  text-align: center;
+  height: 150px;
+}
